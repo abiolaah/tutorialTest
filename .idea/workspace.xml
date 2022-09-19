@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b690d3b1-48ce-4d0a-961f-2b6ed18be74e" name="Changes" comment="">
+    <list default="true" id="b690d3b1-48ce-4d0a-961f-2b6ed18be74e" name="Changes" comment="Tutorials on Selenium Webdriver, template">
       <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
@@ -229,6 +229,14 @@
       <option name="presentableId" value="Default" />
       <updated>1661367311827</updated>
     </task>
+    <task id="LOCAL-00001" summary="Tutorials on Selenium Webdriver, template">
+      <created>1663627484216</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1663627484216</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,6 +249,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Tutorials on Selenium Webdriver, template" />
+    <option name="LAST_COMMIT_MESSAGE" value="Tutorials on Selenium Webdriver, template" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
